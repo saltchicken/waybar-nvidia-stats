@@ -1,0 +1,8 @@
+[package]
+name = "waybar-nvidia-stats"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nvml-wrapper = "0.10.0"
+pretty-bytes = "0.2.2"
